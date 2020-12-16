@@ -1,0 +1,27 @@
+* {
+    color: white;
+}
+
+h6 {
+    color: red ;
+    background-color: yellow;
+    width: 1px;
+}
+
+p {
+    background-color: darkolivegreen;
+}
+
+li{
+    background-color: seagreen;
+}
+
+.orange-color {
+    color: orange;
+}
+
+body {
+    background-color: #a64242;
+}
+
+
